@@ -1,4 +1,3 @@
-```md
 # AWS S3 Storage Management Challenge Guide
 
 ## Step 1: Download and Unzip the Sample Files
